@@ -31,7 +31,7 @@ Specific rules of thumb for writing useful, focused documentation content. How t
 
 ### 🫔 Your Towel: A Doc Writer's Cheat Sheet
 
-A quick reference guide or "towel" with key principles, templates, best practices, and other tools summarized.
+A quick reference guide (our handy _towel_) with key principles, templates, best practices, and other bits summarized.
 
 [View Guide]()
 
