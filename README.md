@@ -62,7 +62,7 @@ A sampler of real-world documentation that exemplifies the guidance provided in 
 
 This guide is intentionally written in the style of "Hitchhikers Guide to the Galaxy" primarily because documentation, and especiallly documenation used to guide you on how to read and write better documenation... can be **overwhelmingly** boring. 
 
-Our hope is that you enjoy readhing this guide and that you benefit so much from these words of wisdom that you fork it & use it with-in your organization... 🐟 and all!
+Our hope is that you enjoy reading this guide and that you benefit so much from these divine words of wisdom that you decide to fork it & use it with-in your organization... 🐟 and all!
 
 <br>
 <hr>
