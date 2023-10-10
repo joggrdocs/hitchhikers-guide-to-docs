@@ -7,9 +7,9 @@
 
 As you begin your journey, there are some simple rules and guidelines you should follow, primarily to increase your chances of survival but also to help your fellow hitchhiker. To learn of these rules click into each corresponding section.
 
-Word to the wise, start at the beginning. Jumping around can be useful. 
+Word to the wise, start at the beginning. Jumping around can be useful but the best way to be most prepared is to read the guide end to end.
 
-Oh and always bring a towel.
+Oh and if you are in a time crunch ignore the previous advice and jump to: [🫔 Your Towel: A Doc Writer's Cheat Sheet](/guides/cheatsheet.md).
 
 ## Guides
 
