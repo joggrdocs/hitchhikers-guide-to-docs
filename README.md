@@ -17,37 +17,37 @@ Oh and always bring a towel.
 
 A brief overview of the core philosophies that inform this documentation guide - clarity, usefulness, humor, etc.
 
-[View Guide]()
+[View Guide](/guides/42.md)
 
 ### 😄 Mostly Harmless: Structuring Your Docs for Safety and Happiness
 
 How to organize your docs for maximum scanability and findability. Headers, spacing, visual hierarchy, and other structural concepts.
 
-[View Guide]()
+[View Guide](/guides/structure.md)
 
 ### 🦺 Do Not Panic: Content Rules to Abide By
 
 Specific rules of thumb for writing useful, focused documentation content. How to be helpful and concise.
 
-[View Guide]()
+[View Guide](/guides/rules.md)
 
 ### 🫔 Your Towel: A Doc Writer's Cheat Sheet
 
 A quick reference guide (our handy _towel_) with key principles, templates, best practices, and other bits summarized.
 
-[View Guide]()
+[View Guide](/guides/cheatsheet.md)
 
 ### 🐟 The Babel Fish: The Art of Writing Understandable Docs
 
 Tips for writing clear, readable docs accessible to users of all backgrounds and mother tongues.
 
-[View Guide]()
+[View Guide](/guides/art-of-writing-docs.md)
 
 ### ☕️ Examples of Particularly Good Cups of Tea
 
 A sampler of real-world documentation that exemplifies the guidance provided in this Guide. What excellent docs look like.
 
-[View Guide]()
+[View Guide](/guides/examples.md)
 
 ## Note to the Reader
 
