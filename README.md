@@ -1,3 +1,12 @@
+<h1 align="center">
+  🚧 Under Construction
+</h1>
+<p align="center">
+  Sorry we are currently making room for a hyperspatial express route, please check <br /> your local planning department on Alpha Centauri for more details.
+</p>
+
+---
+
 <p align="center">
   <img src="/assets/duck-in-space.png" />
   <hr>
